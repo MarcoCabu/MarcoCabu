@@ -11,7 +11,7 @@
 ## 🇮🇹 Chi sono
 
 🎓 Sono uno studente del primo anno di ITIS Informatica in Italia.
-❌ Non so usare md, ammentto che questo ducumento l'ha fatto copilot per me. :P
+❌ Non so usare md, ammentto che questo ducumento l'ha fatto copilot per me.
 💻 Sto iniziando il mio percorso nell’informatica: conosco un po’ di Python e so usare Scratch.  
 🚀 Dopo l’università, vorrei lavorare nello sviluppo software e nella sicurezza informatica.  
 🐾 Amo gli animali e adoro leggere.  
@@ -23,7 +23,7 @@
 ## 🇬🇧 About me
 
 🎓 I'm a first-year ITIS Computer Science student in Italy.  
-❌ I don't know how to use md, I admit that copilot made this document for me. :P
+❌ I don't know how to use md, I admit that copilot made this document for me. 
 💻 I'm just starting my journey in tech: I know a bit of Python and can use Scratch.  
 🚀 After university, I'd love to work in software development and cybersecurity.  
 🐾 I love animals and I'm passionate about reading.  
