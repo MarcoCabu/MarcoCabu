@@ -10,10 +10,10 @@
 
 ## 🇮🇹 Chi sono
 
-🎓 Sono uno studente del primo anno di ITIS Informatica in Italia.
+🎓 Sono uno studente del secondo anno di ITIS Informatica in Italia.
 ❌ Non so usare md, ammentto che questo ducumento l'ha fatto copilot per me.
-💻 Sto iniziando il mio percorso nell’informatica: conosco un po’ di Python e so usare Scratch.  
-🚀 Dopo l’università, vorrei lavorare nello sviluppo software e nella sicurezza informatica.  
+💻 Sto iniziando il mio percorso nell’informatica: conosco un po’ di Python e so usare Scratch e App Inventor, sono molto interessato alla cybersecurity.  
+🚀 Dopo l’università, vorrei lavorare nello sviluppo software o nella sicurezza informatica.  
 🐾 Amo gli animali e adoro leggere.  
 ⚽ Gioco a calcio come portiere e ogni tanto mi diverto con gli scacchi o il cubo di Rubik.  
 🎸 Suono la chitarra e la musica è una delle mie passioni più grandi.
@@ -22,9 +22,9 @@
 
 ## 🇬🇧 About me
 
-🎓 I'm a first-year ITIS Computer Science student in Italy.  
+🎓 I'm a second-year ITIS Computer Science student in Italy.  
 ❌ I don't know how to use md, I admit that copilot made this document for me. 
-💻 I'm just starting my journey in tech: I know a bit of Python and can use Scratch.  
+💻 I'm just starting my journey in tech: I know a bit of Python and can use Scratch App Inventor and I am interested a lot whit cybersecurity.  
 🚀 After university, I'd love to work in software development and cybersecurity.  
 🐾 I love animals and I'm passionate about reading.  
 ⚽ I play football as a goalkeeper, and sometimes I enjoy chess and solving Rubik's cubes.  
@@ -40,7 +40,7 @@
 
 ---
 
-## 🌈 Altre passioni | Other passions
+## 👌 Altre passioni | Other passions
 
 - 🦴 Animali | Animals
 - 📚 Lettura | Reading
